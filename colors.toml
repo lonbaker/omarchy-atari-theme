@@ -1,0 +1,8 @@
+[colors]
+background = "#292329"
+foreground = "#dcd6d6"
+accent1 = "#a2d2b9"
+accent2 = "#9db9b2"
+accent3 = "#79be9a"
+highlight = "#cd9b98"
+inactive = "#877887"
